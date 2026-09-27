@@ -348,6 +348,7 @@ EDA.ipynb
 ## 📦 Requirements
 
 ```text
+Python
 pandas
 matplotlib
 jupyter
